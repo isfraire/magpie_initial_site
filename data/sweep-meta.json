@@ -1,0 +1,9 @@
+{
+  "sweptAt": "2026-07-08T00:00:00Z",
+  "sources": {
+    "CPSC": { "ok": true, "count": 4, "note": "Seeded from live CPSC API" },
+    "FDA": { "ok": false, "count": 0, "note": "Populates on first scheduled sweep" },
+    "USDA FSIS": { "ok": false, "count": 0, "note": "Populates on first scheduled sweep" },
+    "NHTSA": { "ok": false, "count": 0, "note": "Populates on first scheduled sweep" }
+  }
+}

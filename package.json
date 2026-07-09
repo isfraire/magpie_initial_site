@@ -1,0 +1,14 @@
+{
+  "name": "magpie-news",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Magpie recall & safety alerts — static site fed by CPSC, NHTSA, FDA and USDA FSIS public APIs.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "sweep": "node scripts/sweep.mjs",
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && npx serve site",
+    "refresh": "npm run sweep && npm run build"
+  }
+}
