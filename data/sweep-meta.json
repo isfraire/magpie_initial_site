@@ -1,9 +1,22 @@
 {
-  "sweptAt": "2026-07-08T00:00:00Z",
+  "sweptAt": "2026-07-09T22:26:38.590Z",
   "sources": {
-    "CPSC": { "ok": true, "count": 4, "note": "Seeded from live CPSC API" },
-    "FDA": { "ok": false, "count": 0, "note": "Populates on first scheduled sweep" },
-    "USDA FSIS": { "ok": false, "count": 0, "note": "Populates on first scheduled sweep" },
-    "NHTSA": { "ok": false, "count": 0, "note": "Populates on first scheduled sweep" }
+    "CPSC": {
+      "ok": true,
+      "count": 25
+    },
+    "FDA": {
+      "ok": true,
+      "count": 75
+    },
+    "USDA FSIS": {
+      "ok": true,
+      "count": 6
+    },
+    "NHTSA": {
+      "ok": false,
+      "count": 0,
+      "error": "404 for https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL.zip"
+    }
   }
 }
