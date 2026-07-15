@@ -419,22 +419,6 @@
     "recallNumber": "H-1080-2026"
   },
   {
-    "id": "fsis-007-2026",
-    "source": "USDA FSIS",
-    "official": true,
-    "category": "food",
-    "severity": "critical",
-    "date": "2026-05-31",
-    "headline": "Synear Foods USA, LLC Recalls Frozen Pork and Crab Soup Dumpling Products Due to Misbranding and Undeclared Allergens",
-    "affected": "13.23-oz. plastic bag packages containing “Synear SUPREME SOUP DUMPLING PORK &amp; CRAB” and “BEST BY” dates 15 OCT 2026, 10 NOV 2026, 23 DEC 2026, 26 JAN 2027, or 23 FEB 2027.,375-g. plastic bag packages containing “Synear SUPREME SOUP DUMPLING DUMPLINGS À LA SOUPE SUPRÊME PORK &amp; CRAB PORC ET…",
-    "why": "Misbranding,Unreported Allergens (FSIS Class I.) Editor’s Note: June 12, 2026 – This release has been revised to reflect the accurate BEST BY date for the first product listed. The correct date is 13 DEC 2026, replacing the incorrect date of 23 DEC 2026. WASHINGTON, M…",
-    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
-    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/synear-foods-usa-llc-recalls-frozen-pork-and-crab-soup-dumpling-products-due",
-    "units": "",
-    "injuries": "",
-    "remedy": "Discard or return"
-  },
-  {
     "id": "cpsc-26599",
     "source": "CPSC",
     "official": true,
