@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-010-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-07-23",
+    "headline": "BCI Foods, Inc. Recalls Chicken Noodle Soup Product Imported without the Benefit of Import Reinspection",
+    "affected": "10.5-oz can of &quot;tasty KITCHEN Chicken Noodle Condensed Soup PRODUCT OF CANADA&quot; with best by date of &quot;2028 FE 04&quot; and lot code &quot;5 9 2 26 035&quot; · States: Oklahoma",
+    "why": "Import Violation (FSIS Class I.) WASHINGTON, JULY 23, 2026 - BCI Foods, Inc., the importer of record located in Saint-Hyacinthe, Quebec, Canada, is recalling approximately 4,300 pounds of a chicken noodle soup product that was imported from Canada with…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/bci-foods-inc--recalls-chicken-noodle-soup-product-imported-without-benefit-import",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-26621",
     "source": "CPSC",
     "official": true,
