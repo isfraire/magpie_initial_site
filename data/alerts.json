@@ -872,6 +872,22 @@
     "remedy": "Discard or return"
   },
   {
+    "id": "fsis-PHA-07302026-01",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "advisory",
+    "date": "2026-07-30",
+    "headline": "FSIS Issues Public Health Alert for Chicken Salad Product that May Be Contaminated with Listeria",
+    "affected": "8-oz. plastic packages containing portions of &quot;CURRY CHICKEN SALAD&quot; with a USE BY: 07/30/2026 date stamp on the lid. · States: Oregon,Washington",
+    "why": "Product Contamination (FSIS Public Health Alert.) WASHINGTON, JUL 30, 2026 - The U.S. Department of Agriculture's Food Safety and Inspection Service (FSIS) is issuing a public health alert for Curry Chicken Salad due to concerns that the product may be contaminated wit…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-chicken-salad-product-may-be-contaminated-listeria",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "fsis-PHA-07292026-01",
     "source": "USDA FSIS",
     "official": true,
