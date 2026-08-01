@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-012-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-07-31",
+    "headline": "Ukrop&#039;s Homestyle Foods Recalls Spaghetti and Chicken Products Due to Possible Foreign Matter Contamination",
+    "affected": "62.4-oz. ALUMINUM PAN WITH PLASTIC OVERWRAP containing &quot;Ukrop&#039;s Baked Spaghetti - Bulk&quot; and BEST BY dates from 07/08/26 through 08/05/26 on the label and bears establishment number &quot;EST. 19979&quot; in the mark of inspection.,14.8-oz. CARDBOARD TRAY WITH PLASTIC OVERWRAP contain…",
+    "why": "Product Contamination (FSIS Class I.) WASHINGTON, JUL 31, 2026 - Ukrop's Homestyle Foods, a Richmond, Va., establishment, is recalling approximately 22,880 pounds of baked spaghetti and chicken cobbler products that may be contaminated with foreign material…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/ukrops-homestyle-foods-recalls-spaghetti-and-chicken-products-due-possible-foreign",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-26645",
     "source": "CPSC",
     "official": true,
