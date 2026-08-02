@@ -872,22 +872,6 @@
     "recallNumber": "H-1155-2026"
   },
   {
-    "id": "fsis-008-2026",
-    "source": "USDA FSIS",
-    "official": true,
-    "category": "food",
-    "severity": "elevated",
-    "date": "2026-06-18",
-    "headline": "Power Plate Meals, LLC Recalls Frozen Meatloaf Products Due to Misbranding and Undeclared Allergens",
-    "affected": "13.3-oz. vacuum sealed plastic tray packages containing “POWER PLATE MEALS MEATLOAF WITH GARLIC MASHED POTATOES” and “USE BY” dates between 6/25/26 and 6/10/27. · States: Minnesota,North Dakota,South Dakota",
-    "why": "Unreported Allergens (FSIS Class II.) WASHINGTON, June 18, 2026 - Power Plate Meals, LLC, a West Fargo, N.D. Cooperative Interstate Shipping establishment, is recalling approximately 5,795 pounds of frozen meatloaf with garlic mashed potatoes products due t…",
-    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
-    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/power-plate-meals-llc-recalls-frozen-meatloaf-products-due-misbranding-and",
-    "units": "",
-    "injuries": "",
-    "remedy": "Discard or return"
-  },
-  {
     "id": "fsis-PHA-07302026-01",
     "source": "USDA FSIS",
     "official": true,
