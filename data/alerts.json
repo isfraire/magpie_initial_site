@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-015-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-08-08",
+    "headline": "City Foods, Inc. Recalls Ready-To-Eat Pastrami and Corned Beef Products Due To Possible Listeria Contamination",
+    "affected": "10-lb. cardboard boxes containing 2- to 5-lb. pieces of “Midamar Premium Beef Pastrami” with case code “19410” printed on the box label.,Various weight 20- to 30-lb. cardboard boxes containing 2-3 pieces of “BEA’S BEST COOKED CORNED BEEF BRISKET” with case code “18919” printed on the box label.,Var…",
+    "why": "Product Contamination (FSIS Public Health Alert.) WASHINGTON, Aug. 8, 2026 – City Foods, Inc., a Chicago, Ill., establishment, is recalling approximately 3,215 pounds of&nbsp;ready-to-eat (RTE) pastrami and corned beef productsthat may be adulterated with Listeria mono…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/city-foods-inc--recalls-ready-eat-pastrami-and-corned-beef-products-due-possible",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "fsis-014-2026",
     "source": "USDA FSIS",
     "official": true,
@@ -1022,6 +1038,22 @@
     "injuries": "",
     "remedy": "",
     "recallNumber": "H-1175-2026"
+  },
+  {
+    "id": "fsis-PHA-08082026-01",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "advisory",
+    "date": "2026-08-08",
+    "headline": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Jalapeños That Have Been Recalled Due To Possible Salmonella Contamination",
+    "affected": "· States: Nationwide",
+    "why": "Product Contamination (FSIS Public Health Alert.) WASHINGTON, Aug. 8, 2026 – The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) is issuing a public health alert for meat and poultry products containing FDA-regulated jalapeños that may be con…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-various-meat-and-poultry-products-containing-fda-0",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
   },
   {
     "id": "fsis-PHA-07302026-01",
