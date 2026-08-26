@@ -1,5 +1,5 @@
 {
-  "sweptAt": "2026-08-26T07:06:53.556Z",
+  "sweptAt": "2026-08-26T13:14:15.454Z",
   "sources": {
     "CPSC": {
       "ok": true,
@@ -16,7 +16,7 @@
     "NHTSA": {
       "ok": false,
       "count": 0,
-      "error": "404 for https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL.zip"
+      "error": "503 for https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL.zip"
     }
   }
 }
