@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-018-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-08-26",
+    "headline": "Shanghai Ravioli Corporation Recalls Not Ready-To-Eat Frozen Buffalo Chicken Products Produced Without the Benefit of Inspection",
+    "affected": "Cardboard boxes containing 100 pieces of “BUFFALO CHICKEN RANGOON” and “Sell By” dates from July 8, 2026, to June 29, 2027, represented on the label.,Cardboard boxes containing 120 pieces of “BENEDETTO’S BUFFALO CHICKEN MOZZARELLA STICK” and “Sell By” dates from July 8, 2026, to June 29, 2027, repr…",
+    "why": "Produced Without Benefit of Inspection (FSIS Class I.) WASHINGTON, Aug. 26, 2026 &nbsp;– Shanghai Ravioli Corporation, in Boston, Mass., is recalling approximately 24,900 pounds of frozen, not ready-to-eat (NRTE) Buffalo chicken products that were produced without the benef…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/shanghai-ravioli-corporation-recalls-not-ready-eat-frozen-buffalo-chicken-products",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-26712",
     "source": "CPSC",
     "official": true,
