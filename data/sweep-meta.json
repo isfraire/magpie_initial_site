@@ -1,10 +1,10 @@
 {
-  "sweptAt": "2026-08-28T22:16:39.552Z",
+  "sweptAt": "2026-08-29T07:01:35.340Z",
   "sources": {
     "CPSC": {
       "ok": false,
       "count": 25,
-      "error": "404 Not Found for https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallDateStart=2026-07-14&RecallDateEnd=2026-08-28"
+      "error": "404 Not Found for https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallDateStart=2026-07-15&RecallDateEnd=2026-08-29"
     },
     "FDA": {
       "ok": true,
