@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-019-020-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-09-06",
+    "headline": "Prime Line Distributors, Inc. and Ferrarini USA, Inc. Recall Imported Ready-To-Eat Pork Guanciale Products Due to Possible Listeria Contamination",
+    "affected": "• Various weight cardboard cases containing two pieces of individually vacuumed packed “PRIME LINE DISTRIBUTORS, INC. GUANCIALE PORK JOWL PRODUCT OF ITALY” with “LOT: 263311US” and “BEST IF USE BY DATE: 05.16.27” printed on the label.,• Various weight individually vacuumed packaged “GUANCIALE PORK…",
+    "why": "Product Contamination (FSIS Class I.) WASHINGTON, &nbsp; Sept. 06, 2026 – Prime Line Distributors, Inc., a Fort Lauderdale, Fla., firm, and Ferrarini USA, Inc., a Hoboken, N.J., firm, are recalling approximately 1,513 pounds of imported &nbsp;ready-to-eat (…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/prime-line-distributors-inc--and-ferrarini-usa-inc--recall-imported-ready-eat-pork",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-26733",
     "source": "CPSC",
     "official": true,
