@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-021-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-09-09",
+    "headline": "El Eden Import Distributor Corp Recalls Ineligible Pork Cracklings Products Imported from The Republic of Colombia",
+    "affected": "• 45-g. foil bags of “De Todito NATURAL” mixed chips with “CHICHARRÓN AMERICANO JACKS,” “Margarita,” and “NATU CHIPS.”,• 45-g. foil bags of “De Todito BBQ” mixed chips with “CHICHARRÓN AMERICANO JACKS,” “Margarita,” and “NatuChips.” · States: New Jersey,Utah",
+    "why": "Import Violation (FSIS Class I.) WASHINGTON, Sept. 09, 2026 , El Eden Import Distributor Corp., a Long Island City, N.Y. firm, is recalling approximately 264 pounds of potato chip products containing chicharrón (pork cracklings) because they were produ…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/el-eden-import-distributor-corp-recalls-ineligible-pork-cracklings-products-imported",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "fsis-019-020-2026",
     "source": "USDA FSIS",
     "official": true,
