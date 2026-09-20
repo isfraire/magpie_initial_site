@@ -1,14 +1,13 @@
 {
-  "sweptAt": "2026-09-19T20:36:42.374Z",
+  "sweptAt": "2026-09-20T04:50:44.809Z",
   "sources": {
     "CPSC": {
       "ok": true,
       "count": 25
     },
     "FDA": {
-      "ok": false,
-      "count": 46,
-      "error": "500 Internal Server Error for https://api.fda.gov/food/enforcement.json?search=report_date:[20260805+TO+20260919]&sort=report_date:desc&limit=25"
+      "ok": true,
+      "count": 75
     },
     "USDA FSIS": {
       "ok": true,
