@@ -499,38 +499,6 @@
     "recallNumber": "H-1319-2026"
   },
   {
-    "id": "fsis-014-2026",
-    "source": "USDA FSIS",
-    "official": true,
-    "category": "food",
-    "severity": "critical",
-    "date": "2026-08-07",
-    "headline": "Shan Distribution Network, Inc. Recalls Ineligible Frozen Siluriformes Breaded Fish Fillet and Stick Products Imported from the United Arab Emirates",
-    "affected": "13.75-oz. boxes containing Al Kabeer spicy “Zing Fish Fillets Breaded Partially Cooke&quot;d Swai Fish Fillets”,10.58-oz. boxes containing Al Kabeer “Fish Sticks Breaded Swai Fish&quot;,330-g boxes containing Al Kabeer “Breaded Fish Fillets” · States: Illinois,Indiana,Iowa,Michigan,Minnesota,Missou…",
-    "why": "Import Violation (FSIS Class I.) WASHINGTON, Aug. 7, 2026 – Shan Distribution Network, Inc., located in Carol Stream, Ill., is recalling approximately 5,084 pounds of frozen Siluriformes breaded Swai fish fillet and stick products because they were pro…",
-    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
-    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/shan-distribution-network-inc--recalls-ineligible-frozen-siluriformes-breaded-fish",
-    "units": "",
-    "injuries": "",
-    "remedy": "Discard or return"
-  },
-  {
-    "id": "fsis-013-2026",
-    "source": "USDA FSIS",
-    "official": true,
-    "category": "food",
-    "severity": "critical",
-    "date": "2026-08-07",
-    "headline": "Corte Argentino USA LLC Recalls Raw Beef Products Imported Without The Benefit Of Import Reinspection",
-    "affected": "Various weight cardboard boxes containing “FRIGORIFICO GORINA SAIC” boneless beef “TOP SIRLOIN BUTT” (“CUADRIL SIN TAPA”),Various weight cardboard boxes containing “FRIGORIFICO GORINA SAIC” boneless beef “EYE ROUND” (“PECETO”),Various weight cardboard boxes containing “FRIGORIFICO GORINA SAIC” bone…",
-    "why": "Import Violation (FSIS Class I.) WASHINGTON, Aug. 7, 2026 – Corte Argentino USA LLC, located in Aventura, Fla., is recalling approximately 29,628 pounds of raw beef products that were imported from Argentina without the benefit of import reinspection i…",
-    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
-    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/corte-argentino-usa-llc-recalls-raw-beef-products-imported-without-benefit-import",
-    "units": "",
-    "injuries": "",
-    "remedy": "Discard or return"
-  },
-  {
     "id": "fda-H13032026",
     "source": "FDA",
     "official": true,
