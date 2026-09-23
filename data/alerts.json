@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-022-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-09-22",
+    "headline": "Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Without the Benefit of Inspection",
+    "affected": "• Various weight cardboard boxes containing individually vacuum-packed A&amp;D Foods “GOAT CUT 1-1/2&quot; 10.00 LBS”,• Various weight cardboard boxes containing individually vacuum-packed A&amp;D Foods “GOAT BURN SKIN ON CUT 1-1/2&quot; 10.00 LBS”,• Various weight cardboard boxes containing indivi…",
+    "why": "Produced Without Benefit of Inspection (FSIS Class I.) WASHINGTON, Sept. 22, 2026 &nbsp;– Star Meat Delivery Inc., located in Lucama, N.C., is recalling approximately 167,639 pounds of raw pork, beef, and goat products that were produced without the benefit of federal inspe…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/star-meat-delivery-inc--recalls-raw-pork-beef-and-goat-products-produced-without",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-26774",
     "source": "CPSC",
     "official": true,

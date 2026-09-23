@@ -1,5 +1,5 @@
 {
-  "sweptAt": "2026-09-23T04:41:52.806Z",
+  "sweptAt": "2026-09-23T11:31:03.356Z",
   "sources": {
     "CPSC": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "USDA FSIS": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "NHTSA": {
       "ok": false,
