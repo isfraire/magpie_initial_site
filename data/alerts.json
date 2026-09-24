@@ -1,5 +1,21 @@
 [
   {
+    "id": "cpsc-26788",
+    "source": "CPSC",
+    "official": true,
+    "category": "consumer",
+    "severity": "critical",
+    "date": "2026-09-24",
+    "headline": "ZCK01 Recalls Kesyup Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability",
+    "affected": "",
+    "why": "",
+    "action": "",
+    "url": "https://www.cpsc.gov/Recalls/2026/ZCK01-Recalls-Kesyup-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability",
+    "units": "",
+    "injuries": "",
+    "remedy": ""
+  },
+  {
     "id": "fsis-022-2026",
     "source": "USDA FSIS",
     "official": true,
@@ -70,7 +86,7 @@
     "category": "consumer",
     "severity": "critical",
     "date": "2026-09-17",
-    "headline": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard",
+    "headline": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard.",
     "affected": "400,000 BTU Universal-HC Series Pool Heaters — About 4,600 units — Sold At: Pool equipment distributors, builders and service professionals nationwide from March 2026 through July 2026 for about $5,600.",
     "why": "During operation, the heaters can produce high levels of carbon monoxide (CO), posing a risk of serious injury or death from carbon monoxide poisoning.",
     "action": "Consumers should stop using the pool heater immediately and contact Hayward Industries to schedule a free in-home inspection and repair by a qualified technician.",
@@ -350,22 +366,6 @@
     "units": "About 1,560 (In addition, about 171 were sold in Canada)",
     "injuries": "The firm has received 12 reports of a seized or sticking exhaust rocker shaft or damage to the exhaust valves that will result in a progressive decrease in engine performance. One injury, including a broken bone, has be…",
     "remedy": "Repair"
-  },
-  {
-    "id": "cpsc-26749",
-    "source": "CPSC",
-    "official": true,
-    "category": "consumer",
-    "severity": "critical",
-    "date": "2026-09-10",
-    "headline": "Victgoal Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
-    "affected": "Victgoal Children’s Bike Helmets — About 40 units — Sold Online At: Walmart.com from March 2026 through June 2026 for between $22 and $36.",
-    "why": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the retention system, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
-    "action": "Consumers should stop using the recalled helmets immediately and contact Victgoal for a full refund. Consumers will be asked to destroy the helmets by cutting the straps and then sending a photo of the destroyed product, showing the helmet’s production date to walmart@victgoal.com. Consumers should then dispose of the recalled product.",
-    "url": "https://cpsc.gov/Recalls/2026/Victgoal-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
-    "units": "About 40",
-    "injuries": "None reported.",
-    "remedy": "Refund"
   },
   {
     "id": "fsis-021-2026",
