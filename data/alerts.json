@@ -23,7 +23,7 @@
     "severity": "critical",
     "date": "2026-09-24",
     "headline": "ABC Trading Recalls Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
-    "affected": "Light-Up Glasses, Crown Headbands, Sparkle Headbands and Ties — About 43,674 units units — None reported Sold At: ABC Trading stores in Los Angeles, California and other specialty stores nationwide and online at abctradinginc.com from September 2016 through M…",
+    "affected": "Light-Up Glasses, Crown Headbands, Sparkle Headbands and Ties — About 43,674 units units — Sold At: ABC Trading stores in Los Angeles, California and other specialty stores nationwide and online at abctradinginc.com from September 2016 through May 2026 for ab…",
     "why": "The recalled children’s toys violate the mandatory standard for toys because they contain button cell batteries and the compartments that hold the batteries can be easily accessed by children, posing a deadly ingestion hazard to children. When button cell and coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.",
     "action": "Consumers should stop using the recalled light-up toys immediately and contact ABC Trading for a refund. Consumers will be asked to email recallabc@gmail.com a photograph showing the product being disposed of in the trash. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
     "url": "https://cpsc.gov/Recalls/2026/ABC-Trading-Recalls-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
@@ -45,7 +45,7 @@
     "url": "https://cpsc.gov/Recalls/2026/Hyperfuels-Recalls-Methanol-and-Ethanol-Fuel-Containers-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-and-Flame-Jetting-Violates-Multiple-Federal-Safety-Standards",
     "units": "About 124",
     "injuries": "None reported",
-    "remedy": "Refund\nReplace"
+    "remedy": "Refund"
   },
   {
     "id": "cpsc-26797",
@@ -89,11 +89,11 @@
     "headline": "Style Homeware Recalls Emerspring Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability",
     "affected": "Emerspring Mattresses — About 263 units — Sold Online At: Amazon.com from January 2026 through May 2026 for $226.",
     "why": "The recalled mattresses violate the mandatory flammability standard for mattresses, posing a risk of serious injury or death from fire.",
-    "action": "Repair",
+    "action": "Consumers should stop using the recalled mattresses immediately and contact Style Homeware to receive a free fitted cover to put over their mattress, which will bring the mattress into compliance with mandatory flammability standards.",
     "url": "https://cpsc.gov/Recalls/2026/Style-Homeware-Recalls-Emerspring-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability",
     "units": "About 263",
     "injuries": "None reported",
-    "remedy": "Consumers should stop using the recalled mattresses immediately and contact Style Homeware to receive a free fitted cover to put over their mattress, which will bring the mattress into compliance with mandatory flammability standards."
+    "remedy": "Repair"
   },
   {
     "id": "cpsc-26793",
@@ -597,7 +597,7 @@
     "action": "Consumers should stop using the recalled battery packs immediately and contact The Blue Cactus Company for a replacement battery pack.",
     "url": "https://cpsc.gov/Recalls/2026/The-Blue-Cactus-Company-Reclining-Chair-Battery-Packs-Recalled-Due-to-Fire-and-Burn-Hazards-Sold-on-Amazon",
     "units": "About 51,000",
-    "injuries": "CPSC is aware of four reports of the batteries overheating, smoking, or igniting.",
+    "injuries": "",
     "remedy": "Replace"
   },
   {
