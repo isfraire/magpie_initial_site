@@ -1,5 +1,37 @@
 [
   {
+    "id": "fsis-024-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-09-25",
+    "headline": "Sempio Food Services Inc. Recalls Ready-To-Eat Chicken Stew Products Imported Without the Benefit of Import Reinspection",
+    "affected": "Cardboard boxes containing pouches of 31.75-oz (900 g) “Sempio Korean Ginseng CHICKEN STEW CLASSIC” ,Cardboard boxes containing pouches of 31.75-oz (900 g) “Sempio Korean Ginseng CHICKEN STEW RICH” · States: Florida,Georgia,Illinois,Maryland,New Jersey,New York,Pennsylvania,Virginia",
+    "why": "Import Violation (FSIS Class I.) WASHINGTON, Sept. 25, 2026 – Sempio Food Services Inc., located in Cerritos, Calif., is recalling approximately 4,596 pounds of ready-to-eat chicken stew products that were imported from the Republic of Korea without th…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/sempio-food-services-inc--recalls-ready-eat-chicken-stew-products-imported-without",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
+    "id": "fsis-023-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-09-25",
+    "headline": "Fontanini Foods LLC Recalls Raw, Frozen Pork Sausage Products Due to Possible Foreign Matter Contamination",
+    "affected": "10-lb. cardboard box cases containing “Fontanini PORK SAUSAGE LINKS” with “ITEM 393” printed on the box and “PACKED ON 06/23/2026” printed on the shipping label. · States: California,Florida,Michigan,Nevada",
+    "why": "Product Contamination (FSIS Class I.) WASHINGTON, Sept. 25, 2026 – Fontanini Foods LLC, a McCook, Ill., establishment, is recalling approximately 2,320 pounds of&nbsp;raw, frozen pork breakfast sausage products that may be contaminated with foreign material…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/fontanini-foods-llc-recalls-raw-frozen-pork-sausage-products-due-possible-foreign",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-26789",
     "source": "CPSC",
     "official": true,
