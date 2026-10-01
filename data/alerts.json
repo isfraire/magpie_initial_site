@@ -484,38 +484,6 @@
     "recallNumber": "D-0850-2026"
   },
   {
-    "id": "fsis-017-2026",
-    "source": "USDA FSIS",
-    "official": true,
-    "category": "food",
-    "severity": "critical",
-    "date": "2026-08-17",
-    "headline": "Indus Foods, LLC DBA Gangothri Foods Recalls Ready-To-Eat Pickled Goat and Chicken Products Produced Without Benefit of Inspection",
-    "affected": "8-oz. glass jars containing “Gangothri Goat Pickle” ,8-oz. glass jars containing “Gangothri Gongura Goat Pickle” ,8-oz. glass jars containing “Gangothri Chicken Pickle” ,8-oz. glass jars containing “Gangothri Gongura Chicken Pickle” · States: Nationwide",
-    "why": "Produced Without Benefit of Inspection (FSIS Class I.) WASHINGTON, Aug. 17, 2026 – Indus Foods, LLC, doing business as Gangothri Foods, an Austin, Tex. firm, is recalling approximately 1,626 pounds of&nbsp;ready-to-eat (RTE) pickled goat and chicken products that were produ…",
-    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
-    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/indus-foods-llc-dba-gangothri-foods-recalls-ready-eat-pickled-goat-and-chicken",
-    "units": "",
-    "injuries": "",
-    "remedy": "Discard or return"
-  },
-  {
-    "id": "fsis-016-2026",
-    "source": "USDA FSIS",
-    "official": true,
-    "category": "food",
-    "severity": "critical",
-    "date": "2026-08-17",
-    "headline": "Asian America Trading, Inc. Recalls Ineligible Siluriformes Fish Products Imported From the People’s Republic of China",
-    "affected": "50-g plastic bag packages containing “CRISPY FISH SKIN CRACKERS, SALTED EGG.” ,50-g plastic bag packages containing “FISH SKIN CRACKERS, SPICY FLAVOUR”,50-g plastic bag packages containing “UN CHI CRISP FISH SKIN, Wasabi Flavour”,50-g plastic bag packages containing “UN CHI CRISP FISH SKIN, Laver F…",
-    "why": "Import Violation (FSIS Class I.) WASHINGTON, August 17, 2026 – Asian America Trading, Inc., a Hayward, Calif. firm, is recalling approximately 996 pounds of ready-to-eat fish skin products prepared from Pangasius fish because they were produced in The…",
-    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
-    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/asian-america-trading-inc--recalls-ineligible-siluriformes-fish-products-imported",
-    "units": "",
-    "injuries": "",
-    "remedy": "Discard or return"
-  },
-  {
     "id": "cpsc-26798",
     "source": "CPSC",
     "official": true,
