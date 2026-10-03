@@ -1,9 +1,10 @@
 {
-  "sweptAt": "2026-10-02T22:10:55.018Z",
+  "sweptAt": "2026-10-03T05:14:26.878Z",
   "sources": {
     "CPSC": {
-      "ok": true,
-      "count": 25
+      "ok": false,
+      "count": 25,
+      "error": "503 Service Unavailable for https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallDateStart=2026-08-19&RecallDateEnd=2026-10-03"
     },
     "FDA": {
       "ok": true,
@@ -11,7 +12,7 @@
     },
     "USDA FSIS": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "NHTSA": {
       "ok": false,
