@@ -717,6 +717,22 @@
     "recallNumber": "H-1386-2026"
   },
   {
+    "id": "fsis-PHA-10062026-01",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "advisory",
+    "date": "2026-10-06",
+    "headline": "FSIS Issues Public Health Alert for Ineligible Chicken Vienna-Style Sausage Products Illegally Imported From Jamaica",
+    "affected": "• 140-g. cans of “GRACE READY TO EAT CHICKEN VIENNA SAUSAGES.” ,• 140-g. cans of “GRACE READY TO EAT CHICKEN VIENNA SAUSAGES HOT &amp; SPICY.” · States: Alabama,Florida,Georgia,Maryland,Texas",
+    "why": "Produced Without Benefit of Inspection (FSIS Public Health Alert.) WASHINGTON, October 6, 2026 – The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) is issuing a public health alert for canned chicken Vienna-style sausages that were illegally imported from Ja…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ineligible-chicken-vienna-style-sausage-products",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-27010",
     "source": "CPSC",
     "official": true,
