@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-026-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-10-17",
+    "headline": "Kayem Foods Inc. Recalls Meat and Poultry Products Due to Possible Temperature Abuse",
+    "affected": "Full product list available in PDF format - Various RTE meat and poultry products bearing “EST. M/P 7839,” “EST. P 20935A” and “EST. M 9520” inside the USDA mark of inspection. · States: Nationwide",
+    "why": "Processing Defect (FSIS Class I.) WASHINGTON, Oct. 17, 2026 – Kayem Foods Inc., a Chelsea, Mass. establishment, is recalling approximately 1,584,361 pounds of ready-to-eat (RTE) meat and poultry products because they may have experienced temperature abu…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/kayem-foods-inc--recalls-meat-and-poultry-products-due-possible-temperature-abuse",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-27024",
     "source": "CPSC",
     "official": true,
