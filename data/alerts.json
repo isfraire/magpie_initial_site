@@ -1,5 +1,21 @@
 [
   {
+    "id": "cpsc-27039",
+    "source": "CPSC",
+    "official": true,
+    "category": "consumer",
+    "severity": "critical",
+    "date": "2026-10-22",
+    "headline": "VQQQ Gas Patio Heaters Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
+    "affected": "VQQQ Natural Gas Patio Heaters — About 100 units — Sold Online At: Amazon.com from July 2024 through August 2026 for about $346.",
+    "why": "Components on the recalled patio heaters can malfunction causing gas to be released, posing a risk of serious injury or death from fire and burn hazards.",
+    "action": "Consumers should stop using the recalled patio heaters immediately, shut the valve at the portable gas source, disconnect the gas hose and contact VQQQ for a full refund. Consumers will be asked to write in permanent marker \"Recalled\" on the heater’s base and send a photo of the marked heater to vqqqrecall@163.com. Consumers should then dispose of the recalled product.",
+    "url": "https://www.cpsc.gov/Recalls/2027/VQQQ-Gas-Patio-Heaters-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+    "units": "About 100",
+    "injuries": "None reported",
+    "remedy": "Refund"
+  },
+  {
     "id": "fsis-026-2026",
     "source": "USDA FSIS",
     "official": true,
@@ -1123,22 +1139,6 @@
     "units": "",
     "injuries": "",
     "remedy": "Discard or return"
-  },
-  {
-    "id": "cpsc-27010",
-    "source": "CPSC",
-    "official": true,
-    "category": "consumer",
-    "severity": "advisory",
-    "date": "2026-10-01",
-    "headline": "Walmart Recalls Over 4.4 Million Expert Grill Brushes Due to Ingestion Hazard",
-    "affected": "Metal Wire Bristle Grill Brushes — About 4,477,655 units — Sold At: Walmart and online, including Walmart.com from January 2021 through August 2026 for between $1 and $28.",
-    "why": "Small metal wire bristles can detach from the brushes and stick to the grill or food, posing an ingestion hazard and risk of serious internal injuries that could require surgery.",
-    "action": "Consumers should stop using the recalled grill brushes immediately and contact Walmart for a full refund or a credit for use at any Walmart store or Walmart.com. Consumers will be asked to return their recalled brushes to Walmart or discard them.",
-    "url": "https://www.cpsc.gov/Recalls/2027/Walmart-Recalls-Over-4-4-Million-Expert-Grill-Brushes-Due-to-Ingestion-Hazard",
-    "units": "About 4,477,655",
-    "injuries": "None reported.",
-    "remedy": "Refund"
   },
   {
     "id": "fda-D00342027",
