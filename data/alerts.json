@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-027-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-10-24",
+    "headline": "Imperio Distribution LLC Recalls Beef Jerky Products Produced Without the Benefit of Inspection",
+    "affected": "2 oz. sealed bag of &quot;IMPERIO FUEGO BEEF JERKY (CARNE SECA).&quot;,2 oz. sealed bag of &quot;IMPERIO ORIGINAL BEEF JERKY (CARNE SECA).&quot;,2 oz. sealed bag of &quot;IMPERIO LIMÓN BEEF JERKY (CARNE SECA).&quot; · States: Illinois,Indiana,Iowa,Michigan,Minnesota,Mississippi,Wisconsin",
+    "why": "Produced Without Benefit of Inspection (FSIS Class I.) WASHINGTON, Oct. 24, 2026 - Imperio Distribution LLC, an Elgin, Ill. establishment, is recalling approximately 946 pounds of ready-to-eat (RTE) beef jerky products that were produced without the benefit of federal inspe…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/imperio-distribution-llc-recalls-beef-jerky-products-produced-without-benefit",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-27042",
     "source": "CPSC",
     "official": true,
