@@ -384,22 +384,6 @@
     "remedy": "Refund"
   },
   {
-    "id": "cpsc-27020",
-    "source": "CPSC",
-    "official": true,
-    "category": "consumer",
-    "severity": "critical",
-    "date": "2026-10-08",
-    "headline": "Romorgniz Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
-    "affected": "Romorgniz Six-Drawer Dressers — About 12,078 units — Sold Online At: Amazon.com from May 2025 through August 2026 for between $100 and $170.",
-    "why": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
-    "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Romorgniz for a full refund. Consumers will be asked to write in permanent marker \"RECALLED\" on the top, front and sides of the dresser, remove all drawers and send photos of the marked and disassembled dresser to Romorgnizrecall@outlook.com. Consumers shou…",
-    "url": "https://www.cpsc.gov/Recalls/2027/Romorgniz-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
-    "units": "About 12,078",
-    "injuries": "None reported",
-    "remedy": "Refund"
-  },
-  {
     "id": "fsis-025-2026",
     "source": "USDA FSIS",
     "official": true,
@@ -547,6 +531,22 @@
     "injuries": "",
     "remedy": "",
     "recallNumber": "H-0013-2027"
+  },
+  {
+    "id": "cpsc-27055",
+    "source": "CPSC",
+    "official": true,
+    "category": "consumer",
+    "severity": "elevated",
+    "date": "2026-10-29",
+    "headline": "Bodum USA Recalls 5.9 Million French Press Coffee Makers with Replaceable Glass Carafes Due to Risk of Serious Burn Injury",
+    "affected": "Sold At: Target, Walmart, and coffee and home goods stores nationwide and online at Bodum.com, Amazon.com, Target.com, Walmart.com and other online retailers from 1974 through October 2026 for about $15 to $65.",
+    "why": "The carafe can unexpectedly break during use if the glass carafe is damaged or cracked, including by use of a metal spoon to stir the coffee, posing a risk of serious burn injuries.",
+    "action": "",
+    "url": "https://cpsc.gov/Recalls/2027/Bodum-USA-Recalls-5-9-Million-French-Press-Coffee-Makers-with-Replaceable-Glass-Carafes-Due-to-Risk-of-Serious-Burn-Injury",
+    "units": "",
+    "injuries": "",
+    "remedy": ""
   },
   {
     "id": "cpsc-27054",
