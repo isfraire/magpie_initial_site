@@ -1,5 +1,21 @@
 [
   {
+    "id": "fsis-028-2026",
+    "source": "USDA FSIS",
+    "official": true,
+    "category": "food",
+    "severity": "critical",
+    "date": "2026-11-22",
+    "headline": "Brett Anthony Foods Recalls Frozen Fully Cooked Cheeseburger Products Due to Misbranding And Undeclared Allergens",
+    "affected": "10-oz. cardboard boxes containing four “WOW BAO CHEESEBURGER BAO BUNS PACKED WITH ALL-NATURAL BEEF” with “USE BY 10. 01. 27 LOT #26243 EST 40001” printed on the side of the box. · States: Alabama,Colorado,Connecticut,Georgia,Iowa,Maine,Massachusetts,Michigan",
+    "why": "Unreported Allergens (FSIS Class I.) Nov. 22, 2026, EDITOR’S NOTE: Details of this release were updated to reflect that the subject of this release is a frozen fully cooked cheeseburger product, not a Chinese-style BBQ pork product.&nbsp; WASHINGTON, Novem…",
+    "action": "Do not consume. Discard or return to the place of purchase. Check establishment number and dates in the official FSIS notice.",
+    "url": "https://www.fsis.usda.govhttp://www.fsis.usda.gov/recalls-alerts/brett-anthony-foods-recalls-frozen-fully-cooked-cheeseburger-products-due",
+    "units": "",
+    "injuries": "",
+    "remedy": "Discard or return"
+  },
+  {
     "id": "cpsc-27096",
     "source": "CPSC",
     "official": true,
